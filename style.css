@@ -1,0 +1,49 @@
+/* Fonts */
+@import url('https://fonts.googleapis.com/css?family=Open+Sans|Vollkorn&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Open+Sans|Righteous&display=swap');
+
+#title {
+    margin: 5%;
+}
+
+#paragraphe {
+    font-family: 'Vollkorn';
+}
+
+.title {
+    font-family: 'Righteous';
+}
+
+#jaffa {
+    background-color: #f27935;
+    height: 120px;
+    margin-right: 0.9375em;
+}
+
+#outer-space {
+    background-color: #2e3131;
+    height: 120px;
+    margin-right: 0.9375em;
+}
+
+#java {
+    background-color: #23cba7;
+    height: 120px;
+    margin-right: 0.9375em;
+}
+
+.font {
+    color: #bfbfbf;
+}
+
+ul {
+    list-style: none;
+}
+
+span {
+    position: absolute;
+    bottom: 0;
+    background-color: whitesmoke;
+    padding: 2%;
+    margin: 0.5em;
+}
